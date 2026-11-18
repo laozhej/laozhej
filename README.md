@@ -16,10 +16,14 @@ I use Mandarin Chinese, Japanese, English, and Spanish. Feel free to say hi in a
 
 # Other sites
 
-[![Steam profile for asahiarataki](https://img.shields.io/badge/Steam-asahiarataki-1B2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/asahiarataki/)
 [![X profile for iandodgehash335](https://img.shields.io/badge/X-iandodgehash335-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iandodgehash335)
 [![Instagram profile for definitearataki](https://img.shields.io/badge/Instagram-definitearataki-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/definitearataki/)
+## 🎮 Choose a route
 
+- 🌸 [Open the Sakura Archive](https://laozhej.github.io/en/themes/ema/) — Drop by Ema’s little theater and turn on the music box.
+- 🏭 [Enter the industrial terminal](https://laozhej.github.io/en/themes/endfield/) — Explore my site through an interface inspired by Arknights: Endfield.
+- 🎲 [Browse my Steam profile](https://steamcommunity.com/id/asahiarataki/) — Come talk games. Ghost of Tsushima and Red Dead Redemption 2 are two of my favorites.
+- 
 # Contact me
 Email: __lzwd2006@icloud.com__    __jiuzhe38@gmail.com__
 Discord id: *__jiuzhea__*
